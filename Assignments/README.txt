@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hey Capgemini!
+=======
+Hey everyone!
+>>>>>>> js-assignments
 
 This is my Assignment.
 <<<<<<< HEAD
