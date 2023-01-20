@@ -1,4 +1,4 @@
 Hey there!
 
 This is my Assignment.
-It is about GIT
+It is about GIT-assignment
